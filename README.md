@@ -7,7 +7,7 @@ An API for Spotify
 
 All API endpoints are relative to the base URL:
 
-https://ytmusic-tau.vercel.app
+https://spotify-api-gdsc.vercel.app
 
 
 ## API Reference
